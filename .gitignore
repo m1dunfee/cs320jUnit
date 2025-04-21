@@ -1,0 +1,53 @@
+# Compiled class file
+*.class
+
+# Logs
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Maven #
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/wrapper/
+.mvn/wrapper/maven-wrapper.jar
+
+# Gradle #
+*/build/
+*.iws
+*.ipr
+*.iml
+.gradle/
+/gradle/
+/gradlew
+/gradlew.bat
+
+# IntelliJ IDEA #
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# Eclipse #
+.settings/
+.project
+.classpath
+
+# NetBeans #
+nbproject/
+build/
+dist/
+nb-configuration.xml
+
+# Temporary files created by operating systems
+.DS_Store
+Thumbs.db
